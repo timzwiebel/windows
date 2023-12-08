@@ -297,7 +297,8 @@ Power Supply Calculator suggested a PSU with 600-699 W.)
     I'd try to find some EXPO DDR5-5200.
 
 ## Graphics
-> [!NOTE] I decided to stick with my GeForce RTX 3060 from earlier in 2023.
+> [!NOTE]
+> I decided to stick with my GeForce RTX 3060 from earlier in 2023.
 - **Product:**
   [GeForce RTX 3060 Ventus 2X 12G OC](https://www.msi.com/Graphics-Card/GeForce-RTX-3060-VENTUS-2X-12G-OC)
 - **Price:**
