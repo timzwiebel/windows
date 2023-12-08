@@ -496,7 +496,7 @@ Power Supply Calculator suggested a PSU with 600-699 W.)
     - [Hardware Busters: Best ATX v3.x & PCIe 5.x Ready PSU Picks 2023 – Hardware Busters](https://hwbusters.com/best_picks/best-atx-v3-0-pcie-5-0-ready-psus-picks-2023-hardware-busters)
     - [Hardware Busters: Corsair RM1000e (2023) Gen5 PSU Review](https://hwbusters.com/psus/corsair-rm1000e-gen5-psu-review)
     - [Gamers Nexus: Amazon's 5 Most Popular Power Supplies: Budget PSU Round-Up](https://www.youtube.com/watch?v=weFJd8dzxAE&list=PLsuVSmND84QtHZ6WXQ4-4YJhq9VVkOOtw)
-    - [Cultists Network PSU Tier List](https://cultists.network/140/psu-tier-list)
+    - [Cultists Network: PSU Tier List](https://cultists.network/140/psu-tier-list)
   - Efficiency & Noise:
     - [Cybenetics: ATX 3.0 Noise Benchmarks](https://www.cybenetics.com/index.php?option=database&params=4,2,0)
     - [Cybenetics: ATX 3.0 Efficiency Benchmarks](https://www.cybenetics.com/index.php?option=database&params=4,1,0)
