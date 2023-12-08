@@ -496,6 +496,7 @@ Power Supply Calculator suggested a PSU with 600-699 W.)
     - [Hardware Busters: Best ATX v3.x & PCIe 5.x Ready PSU Picks 2023 – Hardware Busters](https://hwbusters.com/best_picks/best-atx-v3-0-pcie-5-0-ready-psus-picks-2023-hardware-busters)
     - [Hardware Busters: Corsair RM1000e (2023) Gen5 PSU Review](https://hwbusters.com/psus/corsair-rm1000e-gen5-psu-review)
     - [Gamers Nexus: Amazon's 5 Most Popular Power Supplies: Budget PSU Round-Up](https://www.youtube.com/watch?v=weFJd8dzxAE&list=PLsuVSmND84QtHZ6WXQ4-4YJhq9VVkOOtw)
+    - [Cultists Network PSU Tier List](https://cultists.network/140/psu-tier-list)
   - Efficiency & Noise:
     - [Cybenetics: ATX 3.0 Noise Benchmarks](https://www.cybenetics.com/index.php?option=database&params=4,2,0)
     - [Cybenetics: ATX 3.0 Efficiency Benchmarks](https://www.cybenetics.com/index.php?option=database&params=4,1,0)
@@ -523,6 +524,7 @@ Power Supply Calculator suggested a PSU with 600-699 W.)
   - General PSU Info:
     - [JayzTwoCents: This is the most OVERLOOKED component in most PCs...](https://www.youtube.com/watch?v=0c7aVTLtYg8)
     - [Gamers Nexus: Wasting Money on Power Supplies: How Many Watts You Need for a PC PSU (2020)](https://www.youtube.com/watch?v=X_wtoCBahhM&list=PLsuVSmND84QtHZ6WXQ4-4YJhq9VVkOOtw)
+    - [PC Builder: STOP Buying BAD PSUs! Best Power Supply for PC 2023](https://www.youtube.com/watch?v=XMCG9axMmqM)
 - **Thoughts:**
   - Based on the benchmarks, price, and its lack of RGB LEDs, I would have loved
     to get a Corsair RMx Shift PSU, but having the ports on the side isn't going
