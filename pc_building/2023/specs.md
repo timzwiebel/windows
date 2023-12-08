@@ -5,44 +5,44 @@
 
 \* *Indicates the price of an item I had previously purchased*
 
-| Component | Power | Max Temperature | | Price |
+| Component | Power | Max Temperature | Price | (Previously<br>Purchased<br>Price*) |
 | --- | ---: | ---: | ---: | ---: |
-| [CPU](#cpu) | 120 W | 89°C | | $358.99 |
-| [Motherboard](#motherboard) | ~195 W | -- | | $199.99 |
-| [CPU Cooler](#cpu-cooler) | 5 W | -- | | $35.47 |
-| [Thermal Paste/Pad](#thermal-pastepad) | -- | -- | | $25.99 |
-| [Memory](#memory) | ~30 W | ~95°C | | $204.99 |
-| [Graphics](#graphics) | 170 W | 93°C | ($359.99*) | -- |
-| [Storage](#storage) | ~10 W | 85°C | | $229.99 |
-| [Case](#case) | 20 W | -- | | $189.99 |
-| [Fan Controller/Hub/Splitter](#fan-controllerhubsplitter) | -- | -- | | $5.95 |
-| [Power Supply](#power-supply) | +750 W | -- | | $99.99 |
-| Total | **550 W**<br>(200 W headroom) | -- | **($1711.34\*)** | **$1351.35** |
+| [CPU](#cpu) | 120 W | 89°C | $358.99 | |
+| [Motherboard](#motherboard) | ~195 W | -- | $199.99 | |
+| [CPU Cooler](#cpu-cooler) | 5 W | -- | $35.47 | |
+| [Thermal Paste/Pad](#thermal-pastepad) | -- | -- | $25.99 | |
+| [Memory](#memory) | ~30 W | ~95°C | $204.99 | |
+| [Graphics](#graphics) | 170 W | 93°C | -- | ($359.99*) |
+| [Storage](#storage) | ~10 W | 85°C | $229.99 | |
+| [Case](#case) | 20 W | -- | $189.99 | |
+| [Fan Controller/Hub/Splitter](#fan-controllerhubsplitter) | -- | -- | $5.95 | |
+| [Power Supply](#power-supply) | +750 W | -- | $99.99 | |
+| **Total** | **550 W**<br>(200 W headroom) | -- | **$1351.35** | **($1711.34\*)** |
 
 (PCPartPicker estimated 489 W and Newegg PC Builder estimated 570 W. Newegg
 Power Supply Calculator suggested a PSU with 600-699 W.)
 
-| Software | | Price |
-| --- | ---: | ---: |
-| [Operating System](#operating-system) | | $199.99 |
-| **Total** | | **$199.99** |
+| Software | Price |
+| --- | ---: |
+| [Operating System](#operating-system) | $199.99 |
+| **Total** | **$199.99** |
 
-| Peripherals | | Price |
+| Peripherals | Price | (Previously<br>Purchased<br>Price*) |
 | --- | ---: | ---: |
-| [Dell U2311H](#monitors) | ($279.00*) | -- |
-| [Dell U2311H](#monitors) | ($279.00*) | -- |
-| [TODO: New Monitor](#monitors) | | $TODO |
-| [TODO: New Keyboard](#keyboard) | | $TODO |
-| [TODO: New Mouse](#mouse) | | $TODO |
-| [TODO: New Mouse Pad](#mouse-pad) | | $TODO |
-| [Speakers](#speakers) | | $34.99 |
-| **Total** | **($592.99\*)** | **$34.99** |
+| [Dell U2311H](#monitors) | -- | ($279.00*) | |
+| [Dell U2311H](#monitors) | -- | ($279.00*) | |
+| [TODO: New Monitor](#monitors) | $TODO | |
+| [TODO: New Keyboard](#keyboard) | $TODO | |
+| [TODO: New Mouse](#mouse) | $TODO | |
+| [TODO: New Mouse Pad](#mouse-pad) | $TODO | |
+| [Speakers](#speakers) | $34.99 | |
+| **Total** | **$34.99** | **($592.99\*)** |
 
-| Tools | | Price |
-| --- | ---: | ---: |
-| [Precision Screwdriver Set](#tools) | | $31.19 |
-| [Electric Air Duster](#tools) | | $39.95 |
-| **Total** | | **$71.14** |
+| Tools | Price |
+| --- | ---: |
+| [Precision Screwdriver Set](#tools) | $31.19 |
+| [Electric Air Duster](#tools) | $39.95 |
+| **Total** | **$71.14** |
 
 
 # Components
