@@ -71,11 +71,11 @@
     - **Monitor > Q-Fan Configuration** to the following:
       - For each fan, change the **Profile** from `Standard` to `Manual`
       - Change each fan's settings:
-        > [!NOTE]
-        > By running Q-Fan Tuning, I determined that the CPU and bottom fans
-        > have a minimum duty cycle of 25% while the front fans have a minimum
-        > duty cycle of 30%. I determined the "Points" based on each fan's
-        > minimum duty cycle and... TODO
+        > **&#8505;&#65039;<!-- information emoji --> NOTE:** By running Q-Fan
+        > Tuning, I determined that the CPU and bottom fans have a minimum duty
+        > cycle of 25% while the front fans have a minimum duty cycle of 30%. I
+        > determined the "Points" based on each fan's minimum duty cycle and...
+        > TODO
         TODO: link to fan specs for "Speed Low Limit"
         1.  CPU:
             - Q-Fan Source: CPU
