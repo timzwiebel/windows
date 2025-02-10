@@ -1,5 +1,34 @@
 # 2023 Computer Configuration
 
+## BIOS Updates
+1.  Download the
+    [latest BIOS](https://www.asus.com/us/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650-plus-wifi/helpdesk_bios)
+1.  Prepare the updated BIOS file:
+    1.  Unzip the file
+    1.  Run `BIOSRenamer.exe`
+    1.  Copy the `.CAP` file to the root directory of a FAT32 USB drive
+        (although simply copying the file to `D:\` seems to work as long as it's
+        in the root directory)
+1.  Reset the BIOS to its default settings (recommended by the manual for
+    stability):
+    1.  Reboot into the BIOS (by repeatedly pressing the **Delete** key during
+        boot)
+    1.  Switch to **Advanced Mode (F7)**
+    1.  **Exit > Load Optimized Defaults**
+    1.  **Exit > Save Changes & Reset**
+1.  Update the BIOS:
+    1.  Reboot into the BIOS (by repeatedly pressing the **Delete** key during
+        boot)
+    1.  Switch to **Advanced Mode (F7)**
+    1.  **Tools > ASUS EZ Flash 3 Utility**
+    1.  Select the `.CAP` file and follow the instructions
+1.  Restore BIOS settings:
+    1.  Go through the [BIOS Settings](#bios-settings) below and restore the
+        settings to their desired state
+1.  Clean up files:
+    1.  Delete the `.CAP` file from all drives
+    1.  Delete the unzipped folder containing `BIOSRenamer.exe`
+
 ## BIOS Settings
 1.  Set the date/time (gear icon in the top-left corner)
 
