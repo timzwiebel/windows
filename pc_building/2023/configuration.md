@@ -24,26 +24,28 @@
         - Ai Tweaker > Memory Frequency
           - (Unchanged, but useful to know)
         - Advanced > SATA Configuration > SATA Controller(s)
-        - Advanced > APM Configuration > ErP
+        - Advanced > APM Configuration > ErP Ready
         - Advanced > Onboard Devices Configuration > LED lighting > When system
           is in working state
+        - Advanced > Onboard Devices Configuration > LED lighting > Windows
+          Dynamic Lighting
         - Advanced > Onboard Devices Configuration > LED lighting > When system
           is in sleep, hibernate or soft off states
-        - Advanced > Onboard Devices Configuration > Wi-Fi Controller
-        - Advanced > Onboard Devices Configuration > Bluetooth Controller
         - Advanced > Onboard Devices Configuration > USB power delivery in Soft
           Off state (S5)
-        - Monitor > Q-Fan Configuration
+        - Advanced > Onboard Devices Configuration > Wi-Fi Controller
+        - Advanced > Onboard Devices Configuration > Bluetooth Controller
         - Advanced > NB Configuration
           - (Unchanged, but useful for changing between integrated graphics and
             PCIe)
+        - Monitor > Q-Fan Configuration
         - Tool > ASUS Armoury Crate > Download & Install ARMOURY CRATE app
         - Tool > MyASUS > Download & Install MyASUS service & app
 
 1.  Change BIOS settings:
     - **Ai Tweaker > Ai Overclock Tuner** from `Auto` to `EXPO II`<br>
-      - A good description of these settings can be found at [1:06:14 of this
-      video](https://www.youtube.com/watch?v=wzVZgTP2204&t=3974s)
+      - A good description of these settings can be found at
+        [1:06:14 of this video](https://www.youtube.com/watch?v=wzVZgTP2204&t=3974s)
         - The video discusses XMP, but EXPO is just AMD's version of XMP (which
           is from Intel)
         - TL;DW:
@@ -58,16 +60,21 @@
             > default to II and then tell people "test your memory".*
     - **Advanced > SATA Configuration > SATA Controller(s)** from `Enabled` to
       `Disabled`
-    - **Advanced > APM Configuration > ErP** from `Disabled` to `Enable(S4+S5)`
-    - **Advanced > Onboard Devices Configuration > LED lighting > When system is
-      in sleep, hibernate or soft off states** from `Onboard LED on` to
-      `Onboard LED off`
+    - **Advanced > APM Configuration > ErP Ready** from `Disabled` to
+      `Enable(S4+S5)` (Changing this value changes a few others mentioned below)
+    - Ensure that **Advanced > Onboard Devices Configuration > LED lighting** is
+      configured correctly:
+      - **When system is in working state** should be `All On`
+      - **Windows Dynamic Lighting** should be `Disabled`
+      - **When system is in sleep, hibernate or soft off states** should be
+        `Onboard LED off` (this value changes with **ErP Ready**)
     - **Advanced > Onboard Devices Configuration > Wi-Fi Controller** from
       `Enabled` to `Disabled`
     - **Advanced > Onboard Devices Configuration > Bluetooth Controller** from
       `Enabled` to `Disabled`
-    - **Advanced > Onboard Devices Configuration > USB power delivery in Soft
-      Off state (S5)** from `Enabled` to `Disabled`
+    - Ensure that **Advanced > Onboard Devices Configuration > USB power
+      delivery in Soft Off state (S5)** is `Disabled` (this value changes with
+      **ErP Ready**)
     - **Monitor > Q-Fan Configuration** to the following:
       - For each fan, change the **Profile** from `Standard` to `Manual`
       - Change each fan's settings:
