@@ -77,46 +77,48 @@
         > determined the "Points" based on each fan's minimum duty cycle and...
         > TODO
         TODO: link to fan specs for "Speed Low Limit"
-        1.  CPU:
-            - Q-Fan Source: CPU
-            - Speed Low Limit: **400 RPM**
-            - Point 4: 70°C, 100%
-            - Point 3: 65°C, **75%**
-            - Point 2: **50°C**, **50%**
-            - Point 1: **30°C**, **25%**
-        1.  Chassis 1: rear and center bottom fans (RPM values are from the rear
-            fan)
-            - Q-Fan Source: **Multiple Sources (CPU, CPU Package, Motherboard)**
-            - Speed Low Limit: **500 RPM**
-            - Point 4: 70°C, 100%
-            - Point 3: 65°C, 70%
-            - Point 2: **50°C**, 40%
-            - Point 1: **30°C**, **25%**
-        1.  Chassis 2: upper front fan
-            - Q-Fan Source: **Multiple Sources (CPU, CPU Package, Motherboard)**
-            - Speed Low Limit: **300 RPM**
-            - Point 4: 70°C, 100%
-            - Point 3: 65°C, **75%**
-            - Point 2: **50°C**, **50%**
-            - Point 1: **30°C**, **30%**
-        1.  Chassis 3: forward bottom fan
-            - Q-Fan Source: **Multiple Sources (CPU, CPU Package, Motherboard)**
-            - Speed Low Limit: **500 RPM**
-            - Point 4: 70°C, 100%
-            - Point 3: 65°C, 70%
-            - Point 2: **50°C**, 40%
-            - Point 1: **30°C**, **25%**
-        1.  Chassis 4: lower front fan
-            - Q-Fan Source: Multiple Sources (CPU, CPU Package, Motherboard)
-            - Speed Low Limit: **300 RPM**
-            - Point 4: 70°C, 100%
-            - Point 3: 65°C, **75%**
-            - Point 2: **50°C**, **50%**
-            - Point 1: **30°C**, **30%**
+        - CPU
+          - Q-Fan Source: CPU
+          - Speed Low Limit: **400 RPM**
+          - Point 4: 70°C, 100%
+          - Point 3: **55°C**, **75%**
+          - Point 2: **40°C**, **50%**
+          - Point 1: **25°C**, **25%**
+        - Chassis 1: rear and center bottom fans (RPM values are reported from
+          the rear fan because a splitter is used)
+          - Q-Fan Source: **Multiple Sources (CPU, CPU Package, MotherBoard)**
+          - Speed Low Limit: **500 RPM**
+          - Point 4: 70°C, 100%
+          - Point 3: **60°C**, **75%**
+          - Point 2: **50°C**, **50%**
+          - Point 1: **25°C**, **25%**
+        - Chassis 2: upper front fan
+          - Q-Fan Source: **Multiple Sources (CPU, CPU Package, MotherBoard)**
+          - Speed Low Limit: **300 RPM**
+          - Point 4: 70°C, 100%
+          - Point 3: **55°C**, **75%**
+          - Point 2: **40°C**, **50%**
+          - Point 1: **25°C**, **30%**
+        - Chassis 3: forward bottom fan
+          - Q-Fan Source: **Multiple Sources (CPU, CPU Package, MotherBoard)**
+          - Speed Low Limit: **500 RPM**
+          - Point 4: 70°C, 100%
+          - Point 3: **60°C**, **75%**
+          - Point 2: **50°C**, **50%**
+          - Point 1: **25°C**, **25%**
+        - Chassis 4: lower front fan
+          - Q-Fan Source: Multiple Sources (CPU, CPU Package, MotherBoard)
+          - Speed Low Limit: **300 RPM**
+          - Point 4: 70°C, 100%
+          - Point 3: **55°C**, **75%**
+          - Point 2: **40°C**, **50%**
+          - Point 1: **25°C**, **30%**
     - **Tool > ASUS Armoury Crate > Download & Install ARMOURY CRATE app** from
       `Enabled` to `Disabled`
     - Ensure that **Tool > MyASUS > Download & Install MyASUS service & app** is
       `Disabled`
+
+1.  **Exit > Save Changes & Reset**
 
 ## Installing Windows
 During the installation:
